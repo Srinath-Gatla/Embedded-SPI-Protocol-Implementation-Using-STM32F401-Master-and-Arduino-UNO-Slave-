@@ -1,7 +1,7 @@
 ## 📖 Description
 This project demonstrates SPI (Serial Peripheral Interface) communication between an STM32F401 (Master) and an Arduino UNO (Slave).
 
-##**The STM32 sends commands to the Arduino to:**
+**The STM32 sends commands to the Arduino to:**
 - Control an LED
 - Read analog sensor data
 - Read LED status
